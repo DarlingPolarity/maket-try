@@ -89,7 +89,6 @@ body{
     display: flex;
     align-items: flex-end;
     justify-content: start;
-
 }
 
 .rectangle__photo{
@@ -117,6 +116,7 @@ body{
 
 .shop__browse a{
     font-size: 1.6rem;
+    color: #fff;
 }
 
 .shop__everything{
@@ -124,6 +124,7 @@ body{
     background: #F14814;
     border-radius: .5rem;
     margin-right: 5rem;
+    
 }
 
 /* Conditions */
@@ -391,11 +392,13 @@ body{
 .article__name__topic{
     font-size: 2.4rem;
     line-height: 2.9rem;
+    color: #3F3B3D;
 }
 
 .article__description__topic{
     font-size: 1.6rem;
     line-height: 2.1rem;
+    color: #3F3B3D;
 }
 
 .read__more{
@@ -403,6 +406,7 @@ body{
     font-size: 1.6rem;
     line-height: 2.1rem;
     margin-top: .8rem;
+    color: #3F3B3D;
 }
 
 .journal__info{
@@ -426,6 +430,7 @@ body{
     line-height:2.1rem;
     margin-top: 1.4rem;
     text-decoration: underline;
+    color: #3F3B3D;
 }
 
 .articles{
@@ -457,6 +462,7 @@ body{
     font-size: 1.6rem;
     margin: .3rem 0;
     line-height: 2.1rem;
+    color: #3F3B3D;
 }
 
 /* FOOTER */
@@ -568,6 +574,7 @@ body{
     padding: 1.4rem 1.8rem 1.2rem;
     font-size: 1.2rem;
     line-height: 1.6rem;
+    color: #fff;
 }
 
 /* HOVER */
